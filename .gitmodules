@@ -1,0 +1,3 @@
+[submodule "TheForgeTheCmake"]
+	path = TheForgeTheCmake
+	url = https://github.com/Geenz/TheForgeTheCmake.git
